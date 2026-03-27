@@ -39,19 +39,15 @@ c = √(a² + b²)
 
 ### 🧠 Python Implementation
 
-```python
-import math
-
-a = float(input("Side A: "))
-b = float(input("Side B: "))
-
-c = math.hypot(a, b)
-
-print(f"Hypotenuse: {c:.2f}")
-
 📐 Visual Representation
 
 <img width="512" height="466" alt="image" src="https://github.com/user-attachments/assets/4ca8ac92-623b-4d51-a318-2eab6134e205" />
+
+
+
+
+
+
 
 
 
